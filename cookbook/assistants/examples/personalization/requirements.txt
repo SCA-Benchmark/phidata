@@ -250,3 +250,4 @@ webencodings==0.5.1
     # via html5lib
 yfinance==0.2.40
     # via -r cookbook/examples/personalization/requirements.in
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
