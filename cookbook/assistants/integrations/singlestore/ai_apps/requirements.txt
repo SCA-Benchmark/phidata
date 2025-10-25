@@ -152,7 +152,7 @@ pygments==2.17.2
     # via rich
 pymysql==1.1.0
     # via -r cookbook/integrations/singlestore/auto_rag/requirements.in
-pypdf==4.2.0
+pypdf==6.1.3
     # via -r cookbook/integrations/singlestore/auto_rag/requirements.in
 python-dateutil==2.9.0.post0
     # via pandas
