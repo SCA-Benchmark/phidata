@@ -124,7 +124,7 @@ pandas==2.2.2
     #   altair
     #   streamlit
     #   yfinance
-peewee==3.17.3
+peewee==3.18.3
     # via yfinance
 phidata==2.4.20
     # via -r cookbook/integrations/singlestore/auto_rag/requirements.in
