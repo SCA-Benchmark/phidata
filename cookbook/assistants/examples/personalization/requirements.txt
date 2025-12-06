@@ -127,7 +127,7 @@ pandas==2.2.2
     #   altair
     #   streamlit
     #   yfinance
-peewee==3.17.5
+peewee==3.18.3
     # via yfinance
 pgvector==0.2.5
     # via -r cookbook/examples/personalization/requirements.in
