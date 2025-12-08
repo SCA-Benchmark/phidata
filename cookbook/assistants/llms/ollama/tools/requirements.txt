@@ -110,7 +110,7 @@ pandas==2.2.2
     #   altair
     #   streamlit
     #   yfinance
-peewee==3.17.3
+peewee==3.18.3
     # via yfinance
 pgvector==0.2.5
     # via -r cookbook/llms/ollama/tools/requirements.in
@@ -220,7 +220,7 @@ typing-extensions==4.11.0
     #   typer
 tzdata==2024.1
     # via pandas
-urllib3==1.26.18
+urllib3==2.6.0
     # via requests
 webencodings==0.5.1
     # via html5lib
