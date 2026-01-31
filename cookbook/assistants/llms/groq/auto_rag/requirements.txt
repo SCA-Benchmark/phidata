@@ -141,7 +141,7 @@ pydeck==0.9.0
     # via streamlit
 pygments==2.17.2
     # via rich
-pypdf==4.2.0
+pypdf==6.6.2
     # via -r cookbook/llms/groq/auto_rag/requirements.in
 python-dateutil==2.9.0.post0
     # via pandas
